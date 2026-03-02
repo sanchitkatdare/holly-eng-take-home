@@ -5,7 +5,7 @@ export default function Home() {
         Go to chat &#8594;
       </a>
 
-      <p className="opacity-60 text-sm">Instructions in the README.md</p>
+      <p className="opacity-60 text-sm">Instructions in the SUBMISSION_README.md</p>
     </div>
   );
 }
